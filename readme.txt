@@ -15,6 +15,7 @@ Ever wanted to add a calendar of upcoming events in your company blog or add a s
 This little plugin gives you the possibility to add one or event lists or calendars in your blogs sidebar or posts/pages.
 
 The script offers three different types for embedding.
+
 * a calendar widget which embeds a full calendar. This type is mainly intended to be used within pages or posts and will work smoothly with widths of 500 and above.
 * a sidebar calendar widget which is compatible to the default WordPress post calendar and therefor should fit in most themes without any alterations. This calendar displays a small calendar of events in the current month.
 * a eventlist which can be embedded in the sidebar or within posts and pages and shows your events as a list with description if you wish to.
