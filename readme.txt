@@ -42,7 +42,7 @@ The 30Boxes URL you need to enter can be revealed with a click on the Calendar l
 
 Depending on the view you selected this URL will have different values. So you can end up with several widgets for certain custom views or widgets which show private events or widgets that show only your public events with a tag 'blog' for example.
 
-= Screenshots ==
+== Screenshots ==
 
 1. This screen shot shows a calendar widget that can be used within a post or page. You can use custom themes and adjust the design to your needs.
 1. This shot shows an inline event list as it can be used within a post or a page. 
